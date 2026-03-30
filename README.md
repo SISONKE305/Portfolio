@@ -63,8 +63,22 @@ I enjoy building practical solutions and developing my skills in different areas
 - Continuously grow and learn in the tech industry  
 
 ---
+
+
+## CV
+[CV_Sisonke Mhlana.pdf](https://github.com/user-attachments/files/26360856/CV_Sisonke.Mhlana.pdf)
+
+---
+
+## Mock Interview
+
+---
+
 ## 📫 Contact Me
+
 
 📧 Email: mhlanasisonke17@gmail.com 
 💻 GitHub: https://github.com/SISONKE305
+---
+
 ---
