@@ -70,10 +70,6 @@ I enjoy building practical solutions and developing my skills in different areas
 
 ---
 
-## Mock Interview
-
----
-
 ## 📫 Contact Me
 
 
